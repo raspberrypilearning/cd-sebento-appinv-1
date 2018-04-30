@@ -17,10 +17,10 @@ Now that you're finished adding questions and connecting screens, you need a way
 title: How can I install my app on a phone or tablet?
 ---
 
-+ You can get an installable version of the app using one of the options from the **Build** menu. You can either download the app installer directly or get a QR code that you can scan to download the app onto your device.
++ You can build a real app that can be installed on your Android device using one of the options from the **Build** menu. You can either download the app installer directly or get a QR code that you can scan to download the app onto your device.
 
 ![](images/build.png)  
 
---- /collapse --
+--- /collapse ---
 
 That's it! You've got a quiz that will keep score across all its pages, no matter how many you add, and will tell the player how they did at the end. Nice work! Check out the next card for a few ideas on what else you can do with what you know now!

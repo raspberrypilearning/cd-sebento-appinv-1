@@ -15,7 +15,7 @@ Once you have signed in with a Google account, App Inventor will show you option
 title: Which option should I choose?
 ---
 
-**You may need a mentor at your Dojo to help you with this next step!** 
+**You may need a mentor at your Dojo to help you with this step!** 
 
 Depending on what you have personally, or available at your Dojo, you may need to install the emulator, setup your own device or a Dojo device, or do nothing at all (if the Dojo already has devices set up). 
 
