@@ -16,4 +16,10 @@ If you want to follow along with me, you're welcome to, if not then wherever I h
 
 ### What you will learn
 
++ How to use App Inventor to make Android apps
++ Adding components to the screen and changing their properties
++ Adding screens and writing code to move between them
++ Using buttons to trigger an action
++ Storing information between screens
+
 Once you've learned these techniques, you can apply them to create more than just a quiz! These same coding tools can be used to make a complete interactive story, or to build a calculator, or a whole bunch of other cool apps.

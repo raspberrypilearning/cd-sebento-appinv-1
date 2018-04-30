@@ -10,7 +10,17 @@ The website will ask you to sign in with a Google account. If you don't have one
 
 Once you have signed in with a Google account, App Inventor will show you options to either setup an Android device (a phone or tablet) or an emulator (a fake, simulated, Android device) on your computer.
 
-+ **You may need a mentor at your Dojo to help you with this next step!** Depending on what you have personally, or available at your Dojo, you may need to install the emulator, setup your own device or a Dojo device, or do nothing at all (if the Dojo already has devices set up). If you need to do either kind of setup, click on the appropriate link and follow the App Inventor team's instructions. Once you've done that, come back to the Sushi Cards.
+--- collapse ---
+---
+title: Which option should I choose?
+
+**You may need a mentor at your Dojo to help you with this next step!** 
+
+Depending on what you have personally, or available at your Dojo, you may need to install the emulator, setup your own device or a Dojo device, or do nothing at all (if the Dojo already has devices set up). 
+
+If you need to do either kind of setup, click on the appropriate link and follow the App Inventor team's instructions. Once you've done that, come back to the Sushi Cards.
+
+--- /collapse ---
 
 Right! Now you're all set to go! Time to create your first Android app!
 
