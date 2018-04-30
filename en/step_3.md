@@ -13,6 +13,7 @@ Once you have signed in with a Google account, App Inventor will show you option
 --- collapse ---
 ---
 title: Which option should I choose?
+---
 
 **You may need a mentor at your Dojo to help you with this next step!** 
 
