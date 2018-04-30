@@ -11,7 +11,7 @@
 
 ![](images/Properties-text.png)  
   
-+ Change the text in the **Text** box to your question. I'm going to go with `What breed is the world's largest dog?` but you can pick any question you like. Maybe ask what the first song a band released was, or the score in the last World Cup final!
++ Change the text in the **Text** box to your question. I'm going to go with `What country produces the most sugar cane?` but you can pick any question you like.
 
 Of course, what good is a question if the player doesn't have a chance to answer? Now it's time for you to add a few! 
 
@@ -21,4 +21,4 @@ What you end up with should look a little like this:
 
 ![](images/qn1.png)
 
-It's a Great Dane, by the way! Check him out: [dojo.soy/big-dog](http://dojo.soy/big-dog)
+It's Brazil, by the way! Read more here: [dojo.soy/world-sugar](http://dojo.soy/world-sugar)

@@ -8,13 +8,22 @@ Now you've got your first question and you're giving the player a point for a ri
 
 + Name your new screen whatever you like. I decided to be unimaginative and leave it as `Screen2` for now!
 
-+ Your new screen will be blank. Add a **Label** with your next question and four **Buttons** with answers, just like on the last screen. Drag a **TinyDB** on too so you can get that score value you stored! I've asked what dogs are most closely related to (it's wolves!) but you pick whatever works for the quiz you're writing.
++ Your new screen will be blank. Add a **Label** with your next question and four **Buttons** with answers, just like on the last screen. Drag a **TinyDB** on too so you can get that score value you stored! I've asked what country produces the most rice (it's India!) but you pick whatever works for the quiz you're writing.
 
-+ In this case, my right answer was on `Button3` but the code to change the score has to be a little cleverer here, since you've first got to **get** the value of `score` before you can add `1` to it and **store** it. Also, since there will only be a value there if the player got the right answer on the last screen, you need to set a default value if there's nothing there. 
-
-+ So add some code in the **Blocks** view that looks like this (remember to use the right **Button** for your right answer!):
++ Add some code in the **Blocks** view that looks like this. Remember to use the right **Button** for your right answer (my one was on `Button3`)!:
 
 ![](images/subsequent store score.png)
+
+--- collapse ---
+---
+title: Why is the code different this time?
+---
+
+The code to change the score has to be a little cleverer here, since you've first got to **get** the value of `score` before you can add `1` to it and **store** it. 
+
+Also, since there will only be a value there if the player got the right answer on the last screen, you need to set a default value if there's nothing there. 
+
+--- /collapse ---
 
 Great! But how do players get from `Screen1` to `Screen2`? You need to go back to `Screen1` and give them a way! 
 
