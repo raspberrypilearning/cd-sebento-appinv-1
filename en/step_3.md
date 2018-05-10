@@ -1,4 +1,4 @@
-## Getting setup
+## Getting set up
 
 Before you can do anything, you're going to need an account on the App Inventor website. 
 
