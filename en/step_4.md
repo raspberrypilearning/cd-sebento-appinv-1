@@ -1,6 +1,6 @@
 ## Creating a question
 
-+ First, drag a Label component into the viewer to use for your question. 
++ First, drag a **Label** component into the viewer to use for your question. 
 
 ![](images/Label.png)
 
