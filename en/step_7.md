@@ -2,9 +2,9 @@
 
 Now that you're finished adding questions and connecting screens, you need a way to tell the player how they did!
 
-+ Create one more screen called `ScoreScreen` with nothing but a **Label** on it. You also need to drag the **TinyDB** on so you can access the score.
++ Create one more screen called **ScoreScreen** with nothing but a Label on it. You also need to drag the TinyDB on so you can access the score.
 
-+ Now switch to the **Blocks** view and, using blocks from the **ScoreScreen**, **Label1**, **Text**, **TinyDB1** and **Math** sections, put this together:
++ Now switch to the Blocks view and use blocks from the **ScoreScreen**, **Label1**, **Text**, **TinyDB1**, and **Math** sections to put this together:
 
 ![](images/show score.png)
 
@@ -17,7 +17,7 @@ Now that you're finished adding questions and connecting screens, you need a way
 title: How can I install my app on a phone or tablet?
 ---
 
-+ You can build a real app that can be installed on your Android device using one of the options from the **Build** menu. You can either download the app installer directly or get a QR code that you can scan to download the app onto your device.
++ You can build a real app that can be installed on your Android device using one of the options from the **Build** menu. You can either download the app installer directly, or get a QR code that you can scan to download the app onto your device.
 
 ![](images/build.png)  
 
