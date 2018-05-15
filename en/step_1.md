@@ -2,7 +2,7 @@
 
 These cards are going to introduce you to App Inventor. You're going to get the chance to:
  * Learn to build apps for Android phones and tablets
- * Build a quiz that keeps score as the player goes through it, using any questions and answers you like.
+ * Build a quiz that keeps score as the player goes through it, using any questions and answers you like
  
 I'm going to do my quiz on food production around the world. If you want to follow along with me, you're welcome to. If not, then wherever I have a food production–themed question, you'll have to come up with your own question, the right answer, and some answers that sound right! If you're going to make your own quiz, have a think about that now and maybe brainstorm some ideas with the other Ninjas in your Dojo about what kind of questions you should have.
 
