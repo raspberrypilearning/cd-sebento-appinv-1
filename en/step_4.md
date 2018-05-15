@@ -21,4 +21,4 @@ What you end up with should look a little like this:
 
 ![](images/qn1.png)
 
-It's Brazil, by the way! Read more here: [dojo.soy/world-sugar](http://dojo.soy/world-sugar){:target="_blank"}
+The answer to my question is Brazil, by the way! You can read more here: [dojo.soy/world-sugar](http://dojo.soy/world-sugar){:target="_blank"}
