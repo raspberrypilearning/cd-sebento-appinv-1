@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Learn how to use App Inventor to make a quiz app
 version: 1
 listed: false
-copyedit: false
+copyedit: true
 last_tested: "2018-04-30"
 steps:
   - title: Introduction
