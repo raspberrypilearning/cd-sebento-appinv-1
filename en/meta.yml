@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Learn how to use App Inventor to make a quiz app
 theme: green
 version: 1
-listed: false
+listed: true
 copyedit: true
 last_tested: "2018-04-30"
 steps:
