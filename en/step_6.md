@@ -8,7 +8,7 @@ Now that you're finished adding questions and connecting screens, you need a way
 
 ![](images/show score.png)
 
- + Finally, add blocks to your last question screen to switch to the score screen when the player has answered that question.
+ + Finally, add blocks to your last question screen so that the score screen appears after the player answers the last question.
 
 + You should now be able to go to the **Connect** menu and choose the emulator or other connection device you set up for testing your apps (you might need a mentor's help here!) and see how your code works right now!
 
