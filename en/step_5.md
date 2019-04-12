@@ -1,33 +1,44 @@
-## Checking answers
+## Multiple questions
 
-Android apps are made of **Screens**. You've created your first question on one Screen, and you're going to want to add more. You'll put the questions on new screens, but you need a way of keeping score between those screens. On this card, you'll be adding a **TinyDB** database to keep the score in, and some code to mark the right answer!
+Now you've got your first question and you're giving the player a point for the right answer. 
 
-+ First, in the Palette section under **Storage**, find the TinyDB component and drag it on to the Viewer. You won't see anything new there, but **TinyDB1** should appear in the Components section. 
++ To add another question, you'll need to switch back to Designer view and click on the **Add Screen...** button in the top menu bar.
 
-![](images/tinydb.png)
+![](images/add screen.png)
 
-Now it's time to start putting together the code that will power your quiz! 
++ Name your new screen whatever you like. I decided to be boring and leave it as **Screen2** for now!
 
-+ In the top right-hand corner of the screen, click on the **Blocks** button to access the Blocks view.
++ Your new screen will be blank. Add a Label with your next question and four Buttons with answers, just like on the last screen. Drag a TinyDB on too, so you can get that score value you stored! I've asked what country produces the most rice (it's India!), but you pick whatever works for the quiz you're writing.
 
-![](images/blocks button.png)
++ Add some code in the Blocks view that looks like the following. Remember to use the right Button for your right answer (my one was on Button3)!:
 
-Just like the previous Designer screen, this Blocks screen has sections:  
-  **Blocks** — where you pick code blocks
-  **Viewer** — where you drag your code blocks to assemble them
+![](images/subsequent store score.png)
 
-There are lots of kinds of code blocks — you're just going to need a few of them for now. 
+--- collapse ---
+---
+title: Why is the code different this time?
+---
 
-+ In the Blocks section, click on whichever button matches the right answer to your question. For me, it was **Button4**. Grab the `When Button4.Click do` block and drag it onto the viewer.
+The code to change the score has to be a little cleverer here, since you've first got to **get** the value of `score` before you can add `1` to it and **store** it. 
 
-![](images/when click.png)
+And since there will only be a value there if the player got the right answer on the last screen, you need to set a default value if there's nothing there. 
 
-+ Now click on TinyDB1 and choose the `call TinyDB1.StoreValue` block. Drag it into the last block and then go to the **Built-in** blocks and attach the pieces from **Math** and **Text** to make it look like this:
-  
-![](images/store score.png)
+--- /collapse ---
 
-+ Finally, update the text value to `score` and the number to `1`, like this:
-  
-![](images/score vals.png)
+Great! But how do players get from Screen1 to Screen2? You need to go back to Screen1 and give them a way! 
 
-What you've done is to store the value `1` (as in one point for a right answer) under the label `score` in the TinyDB database. You can pull it back out and change it on later screens. This way, you can keep score throughout the app, no matter how many questions you add!
++ To switch screens, click on the Screen2 button and pick Screen1 from the drop-down menu.
+
++ Now, from the Built-in blocks, take the `open another screen screenName` **Control** block and a Text block, and add them below the score code, like this (if you've changed your screen name, you'll need to use that where I've used Screen2):
+
+![](images/next screen right.png)
+
+Of course, that only works if Button1 is clicked. 
+
++ You need to add a simpler block for all the other buttons (the wrong answers), like this:
+
+![](images/next screen wrong.png)
+
+By creating more screens, and adding these same kinds of blocks that point to the next screen each time, you can create an endless number of questions, and keep score throughout! 
+
++ Go make one or two more question screens following the steps on this card.

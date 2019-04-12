@@ -12,12 +12,34 @@ You'll end up with something that looks like this (though you can play around wi
  
 ![](images/all app.png)
 
-### What you will learn
+--- collapse ---
+---
+title: What you will learn
+---
 
 + How to use App Inventor to make Android apps
 + Adding components to the screen and changing their properties
 + Adding screens and writing code to move between them
 + Using buttons to trigger an action
 + Storing information between screens
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: What you will need
+---
+
+### Hardware
+
++ A computer capable of accessing App Inventor
+
++ An internet connection
+
+**Optional:**
+
++ An Android phone or tablet
+
+--- /collapse ---
 
 Once you've learned these techniques, you can apply them to create more than just a quiz! These same coding tools can be used to make a complete interactive story, or to build a calculator, or a whole bunch of other cool apps.
