@@ -1,24 +1,24 @@
-## Creating a question
+## Δημιουργώντας μια ερώτηση
 
-+ First, drag a **Label** component into the viewer to use for your question.
++ Αρχικά, σύρε ένα στοιχείο **Label** στο Viewer για να το χρησιμοποιήσεις για την ερώτησή σου.
 
 ![](images/Label.png)
 
 
-+ To make this Label have the question you want to ask in it, first select it by clicking on it either in the Viewer or the Components section.
++ Για να κάνεις αυτό το Label να περιέχει την ερώτηση που θέλεις να ρωτήσεις, επίλεξέ το πρώτα κάνοντας κλικ σε αυτό είτε στην ενότητα Viewer είτε στην ενότητα Components.
 
-+ Now, in the Properties section, look for **Text** (you may have to scroll down).
++ Τώρα, στην ενότητα Properties, αναζήτησε το **Text** (ίσως χρειαστεί να μετακινηθείς προς τα κάτω).
 
 ![](images/Properties-text.png)
 
-+ Change the text in the Text box to your question. I'm going to go with "What country produces the most sugar cane?", but you can pick any question you like.
++ Άλλαξε το κείμενο στο πλαίσιο κειμένου με την ερώτησή σου. Εγώ θα βάλω το "Ποια χώρα παράγει το περισσότερο ζαχαροκάλαμο;", αλλά μπορείς να επιλέξεις οποιοδήποτε θέμα σου αρέσει.
 
-Of course, what good is a question if the player doesn't have a chance to answer? Now it's time for you to add a few!
+Φυσικά, τι εξυπηρετεί ένα ερώτημα αν ο παίκτης δεν έχει την ευκαιρία να απαντήσει; Τώρα ήρθε η ώρα να προσθέσεις μερικές απαντήσεις!
 
-+ Drag four **Buttons** from the Palette into the Viewer, then select each of them and change the Text in the Properties section so that one of them is the right answer and the other three are wrong answers. Be as tricky or as funny as you like with the anwers!
++ Σύρε τέσσερα **Buttons** από την Palette στην ενότητα Viewer και, στη συνέχεια, επίλεξε καθένα από αυτά και άλλαξε την ιδιότητα Text στην ενότητα Properties, έτσι ώστε μία από αυτές να είναι η σωστή απάντηση και οι άλλες τρεις λάθος απαντήσεις. Γίνε όσο δύσκολος ή διασκεδαστικός θέλεις με τις προτεινόμενες απαντήσεις!
 
-What you end up with should look a little like this:
+Αυτό στο οποίο θα καταλήξεις πρέπει να είναι κάπως έτσι:
 
 ![](images/qn1.png)
 
-The answer to my question is Brazil, by the way! You can read more here: [dojo.soy/world-sugar](http://dojo.soy/world-sugar){:target="_blank"}
+Η απάντηση στην ερώτησή μου είναι η Βραζιλία, παρεμπιπτόντως! Μπορείτε να διαβάσετε περισσότερα εδώ: [dojo.soy/world-sugar](http://dojo.soy/world-sugar){: target = "_ blank"}
