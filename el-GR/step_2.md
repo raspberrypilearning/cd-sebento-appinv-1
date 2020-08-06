@@ -1,47 +1,47 @@
-## Getting set up
+## Ρύθμιση
 
-Before you can do anything, you're going to need an account on the App Inventor website.
+Προτού  μπορέσεις να κάνεις ο,τιδήποτε, θα χρειαστείς ένα λογαριασμό στον ιστότοπο App Inventor.
 
-+ Go to [dojo.soy/appinv-start](http://dojo.soy/appinv-start){:target="_blank"} and then click on the **Create apps!** button in the top right-hand corner of the screen.
++ Πήγαινε στο [dojo.soy/appinv-start](http://dojo.soy/appinv-start){: target = "_ blank"} και στη συνέχεια κάνε κλικ στο **Create apps!** στην επάνω δεξιά γωνία της οθόνης.
 
 ![](images/Create apps button.png)
 
-The website will ask you to sign in with a Google account. If you don't have one, you'll need to create one or use your parent's/guardian's account.
+Ο ιστότοπος θα σου ζητήσει να συνδεθείς με έναν λογαριασμό Google. Αν δεν έχεις, πρέπει να δημιουργήσεις ένα ή να χρησιμοποιήσεις το λογαριασμό του γονέα / κηδεμόνα σου.
 
-Once you have signed in with a Google account, App Inventor will show you options to either set up an Android device (a phone or tablet) or an emulator (a fake, simulated Android device) on your computer.
+Μόλις συνδεθείς με έναν λογαριασμό Google, το App Inventor θα σου δείξει επιλογές είτε για τη ρύθμιση μιας συσκευής Android (ενός τηλεφώνου ή tablet) είτε ενός εξομοιωτή (μια ψεύτικη, προσομοιωμένη συσκευή Android) στον υπολογιστή σου.
 
 --- collapse ---
 ---
-title: Which option should I choose?
+τίτλος: Ποια επιλογή πρέπει να επιλέξω;
 ---
 
-**You may need a mentor at your Dojo to help you with this step!**
+**Μπορεί να χρειαστείς έναν σύμβουλο στο Dojo για να σε βοηθήσει με αυτό το βήμα!**
 
-Depending on what you yourself have or what's available at your Dojo, you may need to install the emulator, set up your own device or a Dojo device, or do nothing at all if the Dojo already has devices set up.
+Ανάλογα με αυτό που έχεις ο ίδιος ή τι είναι διαθέσιμο στο Dojo σου, ίσως χρειαστεί να εγκαταστήσεις τον εξομοιωτή, να ρυθμίσεις τη δική σου συσκευή ή μια συσκευή του Dojo ή να μην κάνεις τίποτα απολύτως εάν το Dojo έχει ήδη εγκαταστήσει συσκευές.
 
-If you need to do either kind of setup, click on the appropriate link and follow the App Inventor team's instructions. Once you've done that, come back to the Sushi Cards.
+Εάν πρέπει να κάνεις οποιουδήποτε είδους ρύθμιση, κάνε κλικ στον κατάλληλο σύνδεσμο και ακολούθησε τις οδηγίες της ομάδας Inventor App. Αφού το κάνεις αυτό, επέστρεψε στις κάρτες Sushi.
 
 --- /collapse ---
 
-Right! Now you're all set to go, it's time to create your first Android app.
+Ωραία! Τώρα είσαι έτοιμος να ξεκινήσεις, ήρθε η ώρα να δημιουργήσεις την πρώτη σου εφαρμογή Android.
 
-+ Go back to App Inventor in your browser and click on the **Start new project** button in the top left-hand corner of the screen.
++ Επέστρεψε στο App Inventor στο πρόγραμμα περιήγησης σου και κάνε κλικ στο κουμπί **Start new project** στην επάνω αριστερή γωνία της οθόνης.
 
 ![](images/Start new project.png)
 
-+ Call your project `MyQuizApp` and click **OK**.
++ Ονόμασε το έργο σου `MyQuizApp` και κάνε κλικ στο **OK**.
 
 ![](images/Project name.png)
 
-You'll see a screen like this one, which means you're ready to get coding!
+Θα δεις μια οθόνη όπως αυτή, που σημαίνει ότι είσαι έτοιμος να ξεκινήσεις να γράφεις κώδικα!
 
 ![](images/Start screen.png)
 
-You can see that the App Inventor **Designer** view is broken into four key sections:
- + **Palette**, from which you pick the components you will use to build your app
- + **Viewer**, where you can see the app you are working on, and rearrange and select components
- + **Components**, where you can see a list of the components in your app and their relationships to each other
- + **Properties**, where you can see and change the properties of the component you have selected at the moment
+Μπορείς να δεις ότι η προβολή **Designer** του App Inventor χωρίζεται σε τέσσερα βασικά τμήματα:
+ + **Palette**, από την οποία επιλέγεις τα στοιχεία που θα χρησιμοποιήσεις για να δημιουργήσεις την εφαρμογή σου
+ + **Viewer**, όπου μπορείς να δεις την εφαρμογή στην οποία εργάζεσαι και να αναδιατάξεις και να επιλέξεις συστατικά
+ + **Components**, όπου μπορείς να δεις μια λίστα των στοιχείων της εφαρμογής σου και των σχέσεων μεταξύ τους
+ + **Properties**, όπου μπορείς να δεις και να αλλάξεις τις ιδιότητες του στοιχείου που έχεις επιλέξει
 
-There are other buttons and even another view, but these four sections are what you'll be using right now.
+Υπάρχουν και άλλα κουμπιά και ακόμη μια προβολή, αλλά αυτά τα τέσσερα τμήματα είναι αυτά που θα χρησιμοποιήσεις προς το παρόν.
 
