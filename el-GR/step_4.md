@@ -1,31 +1,31 @@
-## Checking answers
+## Έλεγχος απαντήσεων
 
-Android apps are made of **Screens**. You've created your first question on one Screen, and you're going to want to add more. You'll put the questions on new screens, but you need a way of keeping score between those screens. On this card, you'll be adding a **TinyDB** database to keep the score in, and some code to mark the right answer!
+Οι εφαρμογές Android αποτελούνται από **οθόνες**. Δημιούργησες την πρώτη σου ερώτηση σε μια οθόνη και θα θέλεις να προσθέσεις περισσότερες. Θα θέσεις τις ερωτήσεις σε νέες οθόνες, αλλά χρειάζεσαι έναν τρόπο διατήρησης βαθμολογίας μεταξύ αυτών των οθονών. Σε αυτήν την κάρτα, θα προσθέσεις μια βάση δεδομένων **TinyDB** για να κρατήσεις το σκορ, και κάποιο κώδικα για να σημειώσεις τη σωστή απάντηση!
 
-+ First, in the Palette section under **Storage**, find the TinyDB component and drag it on to the Viewer. You won't see anything new there, but **TinyDB1** should appear in the Components section.
++ Πρώτον, στην ενότητα Palette κάτω από το **Storage**, βρες το στοιχείο TinyDB και σύρε το μέσα στην ενότητα Viewer. Δεν θα δεις τίποτα νέο εκεί, αλλά το **TinyDB1** πρέπει να εμφανίζεται στην ενότητα Components.
 
 ![](images/tinydb.png)
 
-Now it's time to start putting together the code that will power your quiz!
+Τώρα είναι καιρός να αρχίσεις να βάζεις τον κώδικα που θα τροφοδοτήσει το κουίζ σου!
 
-+ In the top right-hand corner of the screen, click on the **Blocks** button to access the Blocks view.
++ Στην επάνω δεξιά γωνία της οθόνης, κάνε κλικ στο πλήκτρο **Blocks** για πρόσβαση στην προβολή Blocks.
 
 ![](images/blocks button.png)
 
-Just like the previous Designer screen, this Blocks screen has sections: **Blocks** — where you pick code blocks **Viewer** — where you drag your code blocks to assemble them
+Ακριβώς όπως στην προηγούμενη οθόνη Designer, αυτή η οθόνη Blocks έχει τα εξής τμήματα: **Blocks** - όπου επιλέγεις μπλοκ κώδικα **Viewer** - όπου σέρνεις τα block σου για να τα συναρμολογήσεις
 
-There are lots of kinds of code blocks — you're just going to need a few of them for now.
+Υπάρχουν πολλά είδη μπλοκ κώδικα - απλά θα χρειαστείς ορισμένα από αυτά προς το παρόν.
 
-+ In the Blocks section, click on whichever button matches the right answer to your question. For me, it was **Button4**. Grab the `When Button4.Click do` block and drag it onto the viewer.
++ Στην ενότητα Blocks, κάνε κλικ σε οποιοδήποτε από τα κουμπιά αντιστοιχεί στη σωστή απάντηση στην ερώτησή σου. Για μένα, ήταν **Button4**. Πιάσε το `When Button4.Click do` μπλοκ και σύρε το επάνω στην ενότητα viewer.
 
 ![](images/when click.png)
 
-+ Now click on TinyDB1 and choose the `call TinyDB1.StoreValue` block. Drag it into the last block and then go to the **Built-in** blocks and attach the pieces from **Math** and **Text** to make it look like this:
++ Τώρα κάνε κλικ στο TinyDB1 και επίλεξε το `call TinyDB1.StoreValue` μπλοκ. Σύρε το στο τελευταίο μπλοκ και στη συνέχεια πήγαινε στα **Built-in** μπλοκ και κούμπωσε τα κομμάτια από τα **Math** και **Text** ώστε να φαίνονται έτσι:
 
 ![](images/store score.png)
 
-+ Finally, update the text value to `score` and the number to `1`, like this:
++ Τέλος, ενημέρωσε την τιμή κειμένου σε `σκορ` και τον αριθμό σε `1`, όπως παρακάτω:
 
 ![](images/score vals.png)
 
-What you've done is to store the value `1` (as in one point for a right answer) under the label `score` in the TinyDB database. You can pull it back out and change it on later screens. This way, you can keep score throughout the app, no matter how many questions you add!
+Αυτό που έκανες είναι να αποθηκεύσεις την τιμή `1` (όπως λέμε 1 πόντο για κάθε σωστή απάντηση) κάτω από την ένδειξη `score` στη βάση δεδομένων TinyDB. Μπορείς να το ανακαλείς και να το αλλάζεις στις επόμενες οθόνες. Με αυτόν τον τρόπο, μπορείς να κρατήσεις βαθμολογία σε ολόκληρη την εφαρμογή, ανεξάρτητα από το πόσες ερωτήσεις προσθέτεις!
