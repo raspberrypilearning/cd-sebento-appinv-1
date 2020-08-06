@@ -1,44 +1,44 @@
-## Multiple questions
+## Πολλές ερωτήσεις
 
-Now you've got your first question and you're giving the player a point for the right answer.
+Τώρα έχεις την πρώτη σου ερώτηση και δίνεις στον παίκτη έναν πόντο για τη σωστή απάντηση.
 
-+ To add another question, you'll need to switch back to Designer view and click on the **Add Screen...** button in the top menu bar.
++ Για να προσθέσεις ένα άλλο ερώτημα, θα πρέπει να επιστρέψεις στην προβολή Designer και να κάνεις κλικ στο **Add Screen...** κουμπί στην επάνω γραμμή μενού.
 
 ![](images/add screen.png)
 
-+ Name your new screen whatever you like. I decided to be boring and leave it as **Screen2** for now!
++ Ονόμασε τη νέα οθόνη σου όπως θέλεις. Αποφάσισα να μην πρωτοτυπήσω και την άφησα ως **Screen2** προς το παρόν!
 
-+ Your new screen will be blank. Add a Label with your next question and four Buttons with answers, just like on the last screen. Drag a TinyDB on too, so you can get that score value you stored! I've asked what country produces the most rice (it's India!), but you pick whatever works for the quiz you're writing.
++ Η νέα σου οθόνη θα είναι κενή. Πρόσθεσε ένα Label με την επόμενη ερώτησή σου και τέσσερα Buttons με απαντήσεις, όπως και στην τελευταία οθόνη. Σύρε επίσης ένα TinyDB μέσα, έτσι ώστε να μπορείς να πάρεις εκείνη την τιμή που αποθήκευσες! Έχω ρωτήσει ποια χώρα παράγει το περισσότερο ρύζι (είναι η Ινδία!), Αλλά επιλέγεις ό,τι σου κάνει για το κουίζ που γράφεις.
 
-+ Add some code in the Blocks view that looks like the following. Remember to use the right Button for your right answer (my one was on Button3)!:
++ Πρόσθεσε λίγο κώδικα στην προβολή Blocks ώστε να μοιάζει με τα παρακάτω. Θυμήσου να χρησιμοποιήσεις το σωστό Button για την ορθή απάντηση (η δική μου ήταν στο Button3)!:
 
 ![](images/subsequent store score.png)
 
 --- collapse ---
 ---
-title: Why is the code different this time?
+title: Γιατί ο κώδικας είναι διαφορετικός αυτή τη φορά;
 ---
 
-The code to change the score has to be a little cleverer here, since you've first got to **get** the value of `score` before you can add `1` to it and **store** it.
+Ο κώδικας για να αλλάξεις το σκορ πρέπει να είναι λίγο πιο έξυπνος εδώ, δεδομένου ότι πρέπει πρώτα να **πάρεις** την τιμή του `score` προτού να προσθέσεις `1` σε αυτό και να το **αποθηκεύσεις**.
 
-And since there will only be a value there if the player got the right answer on the last screen, you need to set a default value if there's nothing there.
+Και δεδομένου ότι θα υπάρχει μόνο μια τιμή εκεί εφόσον ο παίκτης δώσει τη σωστή απάντηση στην τελευταία οθόνη, θα πρέπει να ορίσεις μια προεπιλεγμένη τιμή, αν δεν υπάρχει τίποτα εκεί.
 
 --- /collapse ---
 
-Great! But how do players get from Screen1 to Screen2? You need to go back to Screen1 and give them a way!
+Εξαιρετικά! Αλλά πώς περνούν οι παίκτες από την Screen1 στην Screen2; Πρέπει να επιστρέψεις στην Screen1 και να τους δώσεις έναν τρόπο!
 
-+ To switch screens, click on the Screen2 button and pick Screen1 from the drop-down menu.
++ Για να αλλάξεις οθόνες, κάνε κλικ στο κουμπί Screen2 και επίλεξε Screen1 από το αναπτυσσόμενο μενού.
 
-+ Now, from the Built-in blocks, take the `open another screen screenName` **Control** block and a Text block, and add them below the score code, like this (if you've changed your screen name, you'll need to use that where I've used Screen2):
++ Τώρα, από τα Built-in μπλοκ, πάρε το `open another screen screenName` μπλοκ από την κατηγορία **Control** και ένα μπλοκ Text, και πρόσθεσέ τα κάτω από τον κώδικα βαθμολογίας, κάπως έτσι (εάν έχεις αλλάξει το όνομα της οθόνης σου, θα χρειαστεί να το βάλεις εκεί που εγώ χρησιμοποίησα το όνομα Screen2):
 
 ![](images/next screen right.png)
 
-Of course, that only works if Button1 is clicked.
+Φυσικά, αυτό λειτουργεί μόνο αν κάνεις κλικ στο Button1.
 
-+ You need to add a simpler block for all the other buttons (the wrong answers), like this:
++ Πρέπει να προσθέσεις ένα πιο απλό μπλοκ για όλα τα άλλα κουμπιά (λάθος απαντήσεις), όπως παρακάτω:
 
 ![](images/next screen wrong.png)
 
-By creating more screens, and adding these same kinds of blocks that point to the next screen each time, you can create an endless number of questions, and keep score throughout!
+Με τη δημιουργία περισσότερων οθονών και την προσθήκη αυτών των ίδιων τύπων μπλοκ που δείχνουν την επόμενη οθόνη κάθε φορά, μπορείς να δημιουργήσεις έναν ατελείωτο αριθμό ερωτήσεων και να κρατάς το σκορ σε όλη την διαδικασία!
 
-+ Go make one or two more question screens following the steps on this card.
++ Πήγαινε και κάνε μία ή περισσότερες οθόνες ερωτήσεων ακολουθώντας τα βήματα αυτής της κάρτας.
