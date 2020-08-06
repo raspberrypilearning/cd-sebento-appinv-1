@@ -1,9 +1,9 @@
-## What next?
+## Και τώρα;
 
-Now you know how to build this quiz, what else can you do with this code? On this card, I'm going to give you a few ideas, but you can always come up with something cooler.
+Τώρα που έμαθες πώς να δημιουργήσεις αυτό το κουίζ, τι άλλο θα μπορούσες να κάνεις με αυτόν τον κώδικα; Σε αυτή την κάρτα, θα σου δώσω μερικές ιδέες, αλλά πάντα μπορείς να βρεις κάτι πιο πρωτότυπο.
 
-+ What about an interactive story that helps people understand what it's like to live with a particular condition? You can use the same blocks you use to move from one screen to the next and move around screens based on users' decisions. You can create a story where, for example, you can decide to go into one room or another, or choose what to say to a person you meet from a list of options. If you map your idea out on paper first, you can create a complex branching story with loads of different characters, secrets, and endings!
++ Τι θα έλεγες για μια διαδραστική ιστορία που θα βοηθά τους ανθρώπους να καταλάβουν πώς είναι να ζουν με μια συγκεκριμένη κατάσταση; Μπορείς να χρησιμοποιήσεις τα ίδια μπλοκ που χρησιμοποιείς για να μετακινηθείς από μια οθόνη στην επόμενη και να μετακινείσαι ανάμεσα στις οθόνες με βάση τις αποφάσεις των χρηστών. Μπορείς να δημιουργήσεις μια ιστορία όπου, για παράδειγμα, θα μπορείς να αποφασίζεις να πηγαίνεις από δωμάτιο σε δωμάτιο ή να επιλέγεις τι θα πεις σε κάποιον που συναντάς από μια λίστα επιλογών. Εάν σχεδιάσεις την ιδέα σου πρώτα σε χαρτί, μπορείς να δημιουργήσεις μια σύνθετη ιστορία διακλάδωσης με πολλά διαφορετικά πρόσωπα, μυστικά και τερματισμούς!
 
-+ You can build an app that gives information on different screens, connected with buttons, about anything you're interested in! You can try adding an **Image** component to the screen and uploading pictures too. In this way, I buildt an app about global food production, with pictures and information about what each country produces and where the food gets exported to.
++ Μπορείς να δημιουργήσεις μια εφαρμογή που θα παρέχει πληροφορίες σε διαφορετικές οθόνες, συνδεδεμένες με κουμπιά, για ο,τιδήποτε σε ενδιαφέρει! Μπορείς να δοκιμάσεις να προσθέσεις ένα στοιχείο **Image** στην οθόνη και να ανεβάζεις φωτογραφίες επίσης. Με αυτόν τον τρόπο δημιούργησα μια εφαρμογή σχετικά με την παγκόσμια παραγωγή τροφίμων, με εικόνες και πληροφορίες για το τι παράγει κάθε χώρα και πού εξάγεται το κάθε τρόφιμο.
 
-You can see this app on App Inventor here: [dojo.soy/beginnerapp](http://dojo.soy/beginnerapp){:target="_blank"}
+Μπορείς να δεις αυτήν την εφαρμογή στο App Inventor εδώ: [dojo.soy/beginnerapp](http://dojo.soy/beginnerapp){: target = "_ blank"}
