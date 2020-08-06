@@ -1,45 +1,45 @@
-## Introduction
+## Εισαγωγή
 
-These cards are going to introduce you to App Inventor. You're going to get the chance to:
- * Learn to build apps for Android phones and tablets
- * Build a quiz that keeps score as the player goes through it, using any questions and answers you like
+Αυτές οι κάρτες θα σε εισαγάγουν στο App Inventor. Θα έχεις την την ευκαιρία να:
+ * Μάθεις να δημιουργείς εφαρμογές για τηλέφωνα και tablet Android
+ * Δημιουργήσεις ένα κουίζ που θα κρατά το σκορ καθώς ο παίκτης θα το συμπληρώνει, χρησιμοποιώντας όποιες ερωτήσεις και απαντήσεις θέλεις
 
-I'm going to do my quiz on food production around the world. If you want to follow along with me, you're welcome to. If not, then wherever I have a food production–themed question, you'll have to come up with your own question, the right answer, and some answers that sound right! If you're going to make your own quiz, have a think about that now and maybe brainstorm some ideas with the other Ninjas in your Dojo about what kind of questions you should have.
+Θα δημιουργήσω το κουίζ μου σχετικά με την παραγωγή τροφίμων σε όλο τον κόσμο. Αν θέλεις να με ακολουθήσεις, είσαι ευπρόσδεκτος. Αν όχι, τότε, όπου έχω μια ερώτηση με θέμα την παραγωγή τροφίμων, θα πρέπει να βρεις τη δική σου ερώτηση, τη σωστή απάντηση και μερικές απαντήσεις που θα φαίνονται σωστές! Αν πρόκειται να φτιάξεις το δικό σου κουίζ, σκέψου το τώρα και ίσως να σκεφτείς κάποιες ιδέες με τους άλλους Νίντζα στο Dojo σου για το τι είδους ερωτήσεις θα πρέπει να έχει.
 
-### What you will make
+### Τι θα φτιάξεις
 
-You'll end up with something that looks like this (though you can play around with colours and adding images to brighten it up if you like).
+Θα καταλήξεις με κάτι που μοιάζει με αυτό (αν και μπορείς να πειραματιστείς με τα χρώματα και να προσθέσεις εικόνες για να το φωτίσεις, εάν θέλεις).
 
 ![](images/all app.png)
 
 --- collapse ---
 ---
-title: What you will learn
+title: Τι θα μάθεις
 ---
 
-+ How to use App Inventor to make Android apps
-+ Adding components to the screen and changing their properties
-+ Adding screens and writing code to move between them
-+ Using buttons to trigger an action
-+ Storing information between screens
++ Πώς να χρησιμοποιείς το App Inventor για να κάνεις εφαρμογές Android
++ Να προσθέτεις στοιχεία στην οθόνη και να αλλάζεις τις ιδιοτήτές τους
++ Να προσθέτεις οθόνες και να γράφεις κώδικα για να μετακινηθείς μεταξύ τους
++ Να χρησιμοποιείς κουμπιά για να ενεργοποιήσεις μια ενέργεια
++ Να αποθηκεύεις πληροφορίες μεταξύ οθονών
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Τι θα χρειαστείς
 ---
 
-### Hardware
+### Υλικό (Hardware)
 
-+ A computer capable of accessing App Inventor
++ Ένας υπολογιστής που έχει πρόσβαση στο App Inventor
 
-+ An internet connection
++ Σύνδεση στο διαδίκτυο
 
-**Optional:**
+**Προαιρετικός:**
 
-+ An Android phone or tablet
++ Ένα τηλέφωνο ή tablet Android
 
 --- /collapse ---
 
-Once you've learned these techniques, you can apply them to create more than just a quiz! These same coding tools can be used to make a complete interactive story, or to build a calculator, or a whole bunch of other cool apps.
+Μόλις μάθεις αυτές τις τεχνικές, μπορείς να τις εφαρμόσεις για να δημιουργήσεις κάτι περισσότερο από ένα κουίζ! Αυτά τα εργαλεία κωδικοποίησης μπορούν να χρησιμοποιηθούν για να δημιουργήσουν μια πλήρη διαδραστική ιστορία ή να δημιουργήσουν μια αριθμομηχανή ή μια ολόκληρη δέσμη άλλων απίθανων εφαρμογών.
