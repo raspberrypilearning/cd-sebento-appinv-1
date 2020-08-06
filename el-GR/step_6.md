@@ -1,28 +1,28 @@
-## Wrapping up
+## Ολοκληρώνοντας
 
-Now that you're finished adding questions and connecting screens, you need a way to tell the player how they did!
+Τώρα που τελείωσες με τη διατύπωση ερωτήσεων καθώς και με τη σύνδεση οθονών, χρειάζεσαι έναν τρόπο για να πεις στον παίκτη πώς τα πήγε!
 
-+ Create one more screen called **ScoreScreen** with nothing but a Label on it. You also need to drag the TinyDB on so you can access the score.
++ Δημιούργησε άλλη μια οθόνη που να ονομάζεται **ScoreScreen** με τίποτα άλλο πέρα από ένα Label σε αυτήν. Πρέπει επίσης να σύρεις το TinyDB για να έχεις πρόσβαση στο σκορ.
 
-+ Now switch to the Blocks view and use blocks from the **ScoreScreen**, **Label1**, **Text**, **TinyDB1**, and **Math** sections to put this together:
++ Τώρα πήγαινε στην προβολή Blocks και χρησιμοποίησε τα μπλοκ από τα τμήματα **ScoreScreen**, **Label1**, **Text**, **TinyDB1**και **Math** για να τα βάλεις μαζί:
 
 ![](images/show score.png)
 
- + Finally, add blocks to your last question screen so that the score screen appears after the player answers the last question.
+ + Τέλος, πρόσθεσε μπλοκ στην τελευταία οθόνη ερωτημάτων έτσι ώστε να εμφανίζεται η οθόνη βαθμολογίας, αφού ο παίκτης απαντήσει στην τελευταία ερώτηση.
 
-+ You should now be able to go to the **Connect** menu and choose the emulator or other connection device you set up for testing your apps (you might need a mentor's help here!) and see how your code works right now!
++ Τώρα θα πρέπει να είσαι έτοιμος να μεταβείς στο μενού **Connect** και να επιλέξεις τον εξομοιωτή (emulator) ή άλλη συσκευή σύνδεσης που έχεις ορίσει για τη δοκιμή των εφαρμογών σου (ενδεχομένως να χρειαστείς βοήθεια από έναν μέντορα εδώ!) και να δεις πώς λειτουργεί ο κώδικάς σου τώρα!
 
 ![](images/connect.png)
 
 --- collapse ---
 ---
-title: How can I install my app on a phone or tablet?
+title: Πώς μπορώ να εγκαταστήσω την εφαρμογή μου σε τηλέφωνο ή tablet;
 ---
 
-+ You can build a real app that can be installed on your Android device using one of the options from the **Build** menu. You can either download the app installer directly, or get a QR code that you can scan to download the app onto your device.
++ Μπορείς να δημιουργήσεις μια πραγματική εφαρμογή που μπορεί να εγκατασταθεί στη συσκευή σου Android χρησιμοποιώντας μία από τις επιλογές του μενού **Build**. Μπορείς είτε να κατεβάσεις απευθείας το πρόγραμμα εγκατάστασης εφαρμογών είτε να λάβεις έναν κωδικό QR που μπορείς να σαρώσεις για να κάνεις λήψη της εφαρμογής στη συσκευή σου.
 
 ![](images/build.png)
 
 --- /collapse ---
 
-That's it! You've got a quiz that will keep score across all its pages, no matter how many you add, and will tell the player how they did at the end. Nice work! Check out the next card for a few ideas on what else you can do with what you know now!
+Αυτό είναι! Έχεις ένα κουίζ που θα κρατήσει σκορ σε όλες τις σελίδες του, ανεξάρτητα από το πόσες θα προσθέσεις, και θα πει στον παίκτη πώς τα πήγε στο τέλος. Ωραία δουλειά! Ρίξε μια ματιά στην επόμενη κάρτα για να πάρεις μερικές ιδέες για το τι άλλο μπορείς να κάνεις με αυτά που ξέρεις τώρα!
