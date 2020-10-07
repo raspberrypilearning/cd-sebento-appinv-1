@@ -1,0 +1,23 @@
+---
+title: التطبيق الغذاء العالمي
+hero_image: images/banner.png
+description: تعرف على كيفية استخدام App Inventor لإنشاء تطبيق اختبار
+theme: green
+listed: true
+copyedit: true
+curriculum: ''
+interests: ''
+technologies: ''
+site_areas: coderdojo, projects
+hardware: ''
+software: ''
+version: 3.0.0
+last_tested: "2018-04-30"
+steps:
+  - title: المقدمة
+  - title: هيا بنا لنبدأ
+  - title: صنع السؤال
+  - title: التحقق من الإجابات
+  - title: أسئلة متعددة
+  - title: تغليف
+  - title: ما التالي؟
