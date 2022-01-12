@@ -1,7 +1,8 @@
 ---
 title: Εφαρμογή παγκόσμιας διατροφής
 hero_image: images/banner.png
-description: Μάθε πώς να χρησιμοποιείς το App Inventor για να δημιουργήσεις μια εφαρμογή κουίζ
+description: Μάθε πώς να χρησιμοποιείς το App Inventor για να δημιουργήσεις μια εφαρμογή
+  κουίζ
 theme: πράσινος
 listed: true
 copyedit: true
@@ -12,12 +13,14 @@ site_areas: coderdojo, έργα
 hardware: ''
 software: ''
 version: 3.0.0
-last_tested: "2018-04-30"
+last_tested: '2018-04-30'
 steps:
-  - title: Εισαγωγή
-  - title: Ρύθμιση
-  - title: Δημιουργώντας μια ερώτηση
-  - title: Έλεγχος απαντήσεων
-  - title: Πολλαπλές ερωτήσεις
-  - title: Ολοκληρώνοντας
-  - title: Και τώρα;
+- title: Εισαγωγή
+  completion: engaged
+- title: Ρύθμιση
+- title: Δημιουργώντας μια ερώτηση
+- title: Έλεγχος απαντήσεων
+- title: Πολλαπλές ερωτήσεις
+  completion: internal
+- title: Ολοκληρώνοντας
+- title: Και τώρα;
