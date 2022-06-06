@@ -15,11 +15,13 @@ version: 3.0.0
 last_tested: '2018-04-30'
 steps:
 - title: المقدمة
-  completion: engaged
 - title: هيا بنا لنبدأ
 - title: صنع السؤال
+  completion:
+  - engaged
 - title: التحقق من الإجابات
 - title: أسئلة متعددة
-  completion: internal
 - title: إنتهيت تقريباً
+  completion:
+  - internal
 - title: ما التالي؟
