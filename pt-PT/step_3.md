@@ -1,24 +1,24 @@
-## Creating a question
+## Criar uma pergunta
 
-+ First, drag a **Label** component into the viewer to use for your question.
++ Primeiro, arrasta o componente **Legenda** para o visualizador para usá-lo na tua pergunta.
 
 ![](images/Label.png)
 
 
-+ To make this Label have the question you want to ask in it, first select it by clicking on it either in the Viewer or the Components section.
++ Para que a legenda contenha a tua pergunta, precisas primeiro selecioná-la com um clique, seja no visualizador, seja na secção de multimédia.
 
-+ Now, in the Properties section, look for **Text** (you may have to scroll down).
++ Agora, na secção das propriedades, procura por **Texto** (poderás ter de rolar para baixo).
 
 ![](images/Properties-text.png)
 
-+ Change the text in the Text box to your question. I'm going to go with "What country produces the most sugar cane?", but you can pick any question you like.
++ Altera o conteúdo da caixa texto para a pergunta. Eu vou optar por "Que país produz mais cana de açúcar?", mas tu podes escrever a pergunta que quiseres.
 
-Of course, what good is a question if the player doesn't have a chance to answer? Now it's time for you to add a few!
+Claro que, de que serve uma pergunta se o jogador não tem hipótese de responder? Agora está na altura de adicionares algumas!
 
-+ Drag four **Buttons** from the Palette into the Viewer, then select each of them and change the Text in the Properties section so that one of them is the right answer and the other three are wrong answers. Be as tricky or as funny as you like with the anwers!
++ Arrasta quatro **Botão** da paleta para o visualizador, de seguida seleciona cada um deles e altera o texto na secção das propriedades, para que um deles seja a resposta certa e os outros três as erradas. Sê tão astuto ou engraçado quanto quiseres com as tuas respostas!
 
-What you end up with should look a little like this:
+O resultado deve ser algo deste género:
 
 ![](images/qn1.png)
 
-The answer to my question is Brazil, by the way! You can read more here: [dojo.soy/world-sugar](http://dojo.soy/world-sugar){:target="_blank"}
+Já agora, a resposta à minha pergunta é o Brasil! Podes ler mais aqui: [dojo.soy/world-sugar](http://dojo.soy/world-sugar){:target="_blank"}
