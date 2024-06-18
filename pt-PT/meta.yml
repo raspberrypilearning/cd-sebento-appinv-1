@@ -1,0 +1,27 @@
+---
+title: Aplicação Global de Alimentos
+hero_image: images/banner.png
+description: Aprende como se usa o App Inventor para fazer uma aplicação de perguntas
+theme: green
+listed: true
+copyedit: true
+curriculum: ''
+interests: ''
+technologies: ''
+site_areas: coderdojo, projects
+hardware: ''
+software: ''
+version: 3.0.0
+last_tested: '2018-04-30'
+steps:
+  - title: Introdução
+  - title: Preparação inicial
+  - title: Criar uma pergunta
+    completion:
+      - engaged
+  - title: Verificar respostas
+  - title: Várias perguntas
+  - title: Para finalizar
+    completion:
+      - internal
+  - title: O que se segue?
