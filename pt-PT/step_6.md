@@ -1,28 +1,28 @@
-## Wrapping up
+## Para concluir
 
-Now that you're finished adding questions and connecting screens, you need a way to tell the player how they did!
+Agora que acabaste de adicionar as perguntas e conectar os ecrãs, precisas de arranjar maneira de dizer ao jogador como se saiu!
 
-+ Create one more screen called **ScoreScreen** with nothing but a Label on it. You also need to drag the TinyDB on so you can access the score.
++ Cria mais um ecrã com o nome **EcrãPontuação** com nada mais além de uma legenda. Precisas também de arrastar uma TinyDB para conseguires aceder a pontuação armazenada.
 
-+ Now switch to the Blocks view and use blocks from the **ScoreScreen**, **Label1**, **Text**, **TinyDB1**, and **Math** sections to put this together:
++ Agora muda para a página de Blocos e usa os blocos do **EcrãPontuação**, das secções **legenda1**, **texto**, **TinyDB1** e **Matematica** para construir isto:
 
 ![](images/show score.png)
 
- + Finally, add blocks to your last question screen so that the score screen appears after the player answers the last question.
+ + Por fim, adiciona os blocos ao ecrã da tua última pergunta para que o ecrã da pontuação apareça após o jogador responder à última pergunta.
 
-+ You should now be able to go to the **Connect** menu and choose the emulator or other connection device you set up for testing your apps (you might need a mentor's help here!) and see how your code works right now!
++ Agora deves ser capaz de ir ao menu **Conectar** e escolher o emulador ou outro dispositivo de conexão que configuraste para testar a tua aplicação (poderás precisar de ajuda do teu mentor aqui!) e observa como o teu código funciona!
 
 ![](images/connect.png)
 
 --- collapse ---
 ---
-title: How can I install my app on a phone or tablet?
+title: Como posso instalar a minha aplicação num telemóvel ou tablet?
 ---
 
-+ You can build a real app that can be installed on your Android device using one of the options from the **Build** menu. You can either download the app installer directly, or get a QR code that you can scan to download the app onto your device.
++ Podes construir uma aplicação real que é instalada no teu dispositivo Android onde usas uma das opções do menu **Compilar**. Podes baixar diretamente o instalador da aplicação, ou obter um código QR que pode ser digitalizado para instalar a aplicação no teu dispositivo.
 
 ![](images/build.png)
 
 --- /collapse ---
 
-That's it! You've got a quiz that will keep score across all its pages, no matter how many you add, and will tell the player how they did at the end. Nice work! Check out the next card for a few ideas on what else you can do with what you know now!
+Está feito! Tens um quiz que mantém a pontuação por todas as páginas, não importa quantas mais adiciones, e vai informar ao jogador como ficou o resultado no final. Bom trabalho! Confere o próximo cartão para mais algumas ideias sobre o que podes fazer mais com o que já sabes até agora!
