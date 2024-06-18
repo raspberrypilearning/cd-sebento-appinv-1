@@ -25,4 +25,4 @@ title: Como posso instalar a minha aplicação num telemóvel ou tablet?
 
 --- /collapse ---
 
-Está feito! Tens um quiz que mantém a pontuação por todas as páginas, não importa quantas mais adiciones, e vai informar ao jogador como ficou o resultado no final. Bom trabalho! Confere o próximo cartão para mais algumas ideias sobre o que podes fazer mais com o que já sabes até agora!
+Está feito! Tens um questionário que mantém a pontuação por todas as páginas, não importa quantas mais adiciones, e vai informar ao jogador como ficou o resultado no final. Bom trabalho! Confere o próximo cartão para mais algumas ideias sobre o que podes fazer mais com o que já sabes até agora!
