@@ -1,9 +1,9 @@
-## What next?
+## O que se segue?
 
-Now you know how to build this quiz, what else can you do with this code? On this card, I'm going to give you a few ideas, but you can always come up with something cooler.
+Agora que sabes construir um questionário, que mais podes fazer com este código? Neste cartão, vou dar-te algumas ideias, mas podes sempre inventar algo mais fixe.
 
-+ What about an interactive story that helps people understand what it's like to live with a particular condition? You can use the same blocks you use to move from one screen to the next and move around screens based on users' decisions. You can create a story where, for example, you can decide to go into one room or another, or choose what to say to a person you meet from a list of options. If you map your idea out on paper first, you can create a complex branching story with loads of different characters, secrets, and endings!
++ O que achas de uma história interativa que ajuda outras pessoas a entender como é viver com uma condição específica? Podes usar os mesmos blocos para passar de um ecrã para o outro e passar entre ecrãs com base nas decisões do utilizador. Podes criar uma história onde, por exemplo, possas decidir se vais entrar para um quarto ou outro, ou escolher o que dizer a uma pessoa que conheceste através de uma lista de opções. Se estruturares a tua ideia primeiro em papel, podes criar uma história complexa e ramificada cheias de personagens diferentes, segredos e finais diferentes!
 
-+ You can build an app that gives information on different screens, connected with buttons, about anything you're interested in! You can try adding an **Image** component to the screen and uploading pictures too. In this way, I buildt an app about global food production, with pictures and information about what each country produces and where the food gets exported to.
++ Podes criar uma aplicação que fornece informações em ecrãs diferentes, conectada com botões, sobre qualquer tema do teu interesse! Podes tentar adicionar um componente **imagem** ao ecrã e carregar imagens também. Deste modo, eu construí uma aplicação sobre a produção global de alimentos, com imagens e informações sobre o que cada país produz e para onde esses alimentos são exportados.
 
-You can see this app on App Inventor here: [dojo.soy/beginnerapp](http://dojo.soy/beginnerapp){:target="_blank"}
+Podes ver esta aplicação no App Inventor, aqui: [dojo.soy/beginnerapp](http://dojo.soy/beginnerapp){:target="_blank"}
