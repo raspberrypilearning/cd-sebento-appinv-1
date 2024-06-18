@@ -1,44 +1,44 @@
-## Multiple questions
+## Várias perguntas
 
-Now you've got your first question and you're giving the player a point for the right answer.
+Agora que fizeste a tua primeira pergunta e consegues atribuir um ponto ao jogador pela resposta certa.
 
-+ To add another question, you'll need to switch back to Designer view and click on the **Add Screen...** button in the top menu bar.
++ Para adicionar outra pergunta, vais precisar de voltar para a página editor de ecrãs e clicar no botão **Adicionar ecrã...** na barra do menu superior.
 
 ![](images/add screen.png)
 
-+ Name your new screen whatever you like. I decided to be boring and leave it as **Screen2** for now!
++ Dá o nome que quiseres ao teu ecrã novo. Eu decidi ser aborrecido e deixar como **Ecrã2** por enquanto!
 
-+ Your new screen will be blank. Add a Label with your next question and four Buttons with answers, just like on the last screen. Drag a TinyDB on too, so you can get that score value you stored! I've asked what country produces the most rice (it's India!), but you pick whatever works for the quiz you're writing.
++ O teu novo ecrã estará em branco. Adiciona uma legenda com a tua próxima pergunta e quatro botões com respostas, tal e qual como fizeste no ecrã anterior. Arrasta a TinyDB também, para conseguires armazenar esse valor na pontuação! Eu perguntei que país produz mais arroz (é a Índia!), mas escolhe o que for mais adequado para o questionário que estás a escrever.
 
-+ Add some code in the Blocks view that looks like the following. Remember to use the right Button for your right answer (my one was on Button3)!:
++ Na página de blocos, adiciona código semelhante ao seguinte. Lembra-te de usar o botão certo para a resposta certa (o meu está no botão3)!:
 
 ![](images/subsequent store score.png)
 
 --- collapse ---
 ---
-title: Why is the code different this time?
+title: Porque o código é diferente desta vez?
 ---
 
-The code to change the score has to be a little cleverer here, since you've first got to **get** the value of `score` before you can add `1` to it and **store** it.
+O código que altera a pontuação tem que ser mais inteligente desta vez, já que tens que **obter** o valor da `pontuação` antes que possas adicionar `1` e **armazenar** esse valor.
 
-And since there will only be a value there if the player got the right answer on the last screen, you need to set a default value if there's nothing there.
+E como só haverá um valor se o jogador acertar a resposta no ecrã anterior, tens de definir um valor padrão se não houver nada lá.
 
 --- /collapse ---
 
-Great! But how do players get from Screen1 to Screen2? You need to go back to Screen1 and give them a way!
+Ótimo! Mas como é que os jogadores passam do Ecrã1 para o Ecrã2? Precisas de voltar para o Ecrã1 e dar-lhes rumo!
 
-+ To switch screens, click on the Screen2 button and pick Screen1 from the drop-down menu.
++ Para trocar de ecrãs, clica no botão Ecrã2 e escolhe o Ecrã1 do menu lista.
 
-+ Now, from the Built-in blocks, take the `open another screen screenName` **Control** block and a Text block, and add them below the score code, like this (if you've changed your screen name, you'll need to use that where I've used Screen2):
++ Agora, dos blocos Internos, tira o `abrir outro ecra nomeDoEcra` dos blocos do **Controle** e um bloco de texto, adiciona-os por baixo do código da pontuação, desta forma (se mudaste o nome do teu ecrã, vais precisar de usá-lo em vez do Ecrã2 que eu usei):
 
 ![](images/next screen right.png)
 
-Of course, that only works if Button1 is clicked.
+Claro que, só funciona se o botão1 for clicado.
 
-+ You need to add a simpler block for all the other buttons (the wrong answers), like this:
++ Precisas de adicionar um bloco mais simples para todos os outros botões (as repostas erradas), desta forma:
 
 ![](images/next screen wrong.png)
 
-By creating more screens, and adding these same kinds of blocks that point to the next screen each time, you can create an endless number of questions, and keep score throughout!
+Ao criar mais ecrãs, e ao adicionar este tipo de blocos que apontam para o próximo ecrã de cada vez, podes criar imensas perguntas e manter a pontuação o tempo todo!
 
-+ Go make one or two more question screens following the steps on this card.
++ Faz mais um ou dois ecrãs de perguntas seguindo os passos deste cartão.
