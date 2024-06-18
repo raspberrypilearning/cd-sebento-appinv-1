@@ -1,45 +1,45 @@
-## Introduction
+## Introdução
 
-These cards are going to introduce you to App Inventor. You're going to get the chance to:
- * Learn to build apps for Android phones and tablets
- * Build a quiz that keeps score as the player goes through it, using any questions and answers you like
+Estes cartões vão apresentar-te o App Inventor. Terás a oportunidade de:
+ * Aprender a criar aplicações para telemóveis Android e tablets
+ * Construir um questionário que guarda a pontuação à medida que o jogador o realiza, utilizando quaisquer perguntas e respostas à tua escolha
 
-I'm going to do my quiz on food production around the world. If you want to follow along with me, you're welcome to. If not, then wherever I have a food production–themed question, you'll have to come up with your own question, the right answer, and some answers that sound right! If you're going to make your own quiz, have a think about that now and maybe brainstorm some ideas with the other Ninjas in your Dojo about what kind of questions you should have.
+Vou fazer o meu questionário baseado na produção de alimentos pelo mundo. Se quiseres acompanhar-me, és mais que bem-vindo. Caso contrário, sempre que eu tiver uma pergunta sobre a produção alimentar, terás de inventar a tua própria pergunta, a resposta certa e algumas respostas que soem bem! Se vais fazer o teu próprio questionário, reserva um tempo agora para pensar e talvez fazer um debate de ideias com outros Ninjas do teu Dojo sobre que tipo de perguntas deves ter.
 
-### What you will make
+### O que vais fazer
 
-You'll end up with something that looks like this (though you can play around with colours and adding images to brighten it up if you like).
+O resultado será algo parecido com isto (embora possas brincar com as cores e adicionar imagens para abrilhantar se quiseres).
 
 ![](images/all app.png)
 
 --- collapse ---
 ---
-title: What you will learn
+title: O que vais aprender
 ---
 
-+ How to use App Inventor to make Android apps
-+ Adding components to the screen and changing their properties
-+ Adding screens and writing code to move between them
-+ Using buttons to trigger an action
-+ Storing information between screens
++ Como usar o App Inventor para criar aplicações para Android
++ Adicionar componentes ao ecrã e mudar as suas propriedades
++ Acrescentar telas e escrever código para alternar entre eles
++ Usar botões para desencadear uma ação
++ Armazenar informação entre ecrãs
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will need
+title: O que vais precisar
 ---
 
-### Hardware
+### Equipamento
 
-+ A computer capable of accessing App Inventor
++ Um computador capaz de aceder ao App Inventor
 
-+ An internet connection
++ Conexão à Internet
 
-**Optional:**
+**Opcional:**
 
-+ An Android phone or tablet
++ Um telemóvel Android ou tablet
 
 --- /collapse ---
 
-Once you've learned these techniques, you can apply them to create more than just a quiz! These same coding tools can be used to make a complete interactive story, or to build a calculator, or a whole bunch of other cool apps.
+Assim que aprenderes estas técnicas, podes aplicá-las para criar mais do que apenas um questionário! Estas ferramentas de código podem ser usadas para criar uma história interativa completa, ou construir uma calculadora, ou até mesmo uma série de outras aplicações fixes.
