@@ -1,47 +1,47 @@
-## Getting set up
+## Preparação
 
-Before you can do anything, you're going to need an account on the App Inventor website.
+Antes de tudo, vais precisar de uma conta no website do App Inventor.
 
-+ Go to [dojo.soy/appinv-start](http://dojo.soy/appinv-start){:target="_blank"} and then click on the **Create apps!** button in the top right-hand corner of the screen.
++ Vai para [dojo.soy/appinv-start](http://dojo.soy/appinv-start){:target="_blank"} e clica no botão **Create apps!** no canto superior direito do ecrã.
 
 ![](images/Create apps button.png)
 
-The website will ask you to sign in with a Google account. If you don't have one, you'll need to create one or use your parent's/guardian's account.
+O website vai pedir-te para iniciares sessão com uma conta Google. Se não tiveres uma conta, vais precisar de criar uma ou usar uma conta dos teus pais/encarregado de educação.
 
-Once you have signed in with a Google account, App Inventor will show you options to either set up an Android device (a phone or tablet) or an emulator (a fake, simulated Android device) on your computer.
+Assim que iniciares sessão com uma conta Google, o App Inventor vai mostrar-te duas opções, podes configurar um dispositivo Android (telemóvel ou tablet) ou um emulador (uma simulação de um dispositivo Android) no teu computador.
 
 --- collapse ---
 ---
-title: Which option should I choose?
+title: Que opção devo escolher?
 ---
 
-**You may need a mentor at your Dojo to help you with this step!**
+**Talvez precises de um mentor do teu Dojo para ajudar-te neste passo!**
 
-Depending on what you yourself have or what's available at your Dojo, you may need to install the emulator, set up your own device or a Dojo device, or do nothing at all if the Dojo already has devices set up.
+Dependendo do que tiveres contigo ou o que está disponível no teu Dojo, poderás precisar de instalar o emulador, ou configurar o teu próprio dispositivo ou um dispositivo do Dojo, ou não fazer nada se o Dojo já tiver dispositivos configurados.
 
-If you need to do either kind of setup, click on the appropriate link and follow the App Inventor team's instructions. Once you've done that, come back to the Sushi Cards.
+Se for preciso fazer um desses tipos de configuração, clica no link apropriado e segue as instruções da equipa do App Inventor. Assim que terminares este passo, volta para as Sushi Cards.
 
 --- /collapse ---
 
-Right! Now you're all set to go, it's time to create your first Android app.
+Pois bem! Agora que estás pronto, é hora de criar a tua primeira aplicação para Android.
 
-+ Go back to App Inventor in your browser and click on the **Start new project** button in the top left-hand corner of the screen.
++ Volta para o App Inventor no teu navegador e clica no botão **Iniciar novo projeto** no canto superior esquerdo do teu ecrã.
 
 ![](images/Start new project.png)
 
-+ Call your project `MyQuizApp` and click **OK**.
++ Chama o teu projeto de `MyQuizApp` e clica em **OK**.
 
 ![](images/Project name.png)
 
-You'll see a screen like this one, which means you're ready to get coding!
+Irás ver um ecrã como este, o que significa que estás pronto para programar!
 
 ![](images/Start screen.png)
 
-You can see that the App Inventor **Designer** view is broken into four key sections:
- + **Palette**, from which you pick the components you will use to build your app
- + **Viewer**, where you can see the app you are working on, and rearrange and select components
- + **Components**, where you can see a list of the components in your app and their relationships to each other
- + **Properties**, where you can see and change the properties of the component you have selected at the moment
+É possível ver que a página **Editor de Ecrãs** do App Inventor está dividida em quatro secções principais:
+ + **Paleta**, onde podes escolher os componentes que vais usar para criar a tua aplicação
+ + **Visualizador**, onde podes ver a aplicação que estás a trabalhar, alterá-la ou selecionar componentes
+ + **Multimédia**, onde podes ver a lista dos componentes da tua aplicação e as relações entre eles
+ + **Propriedades**, onde vês e alteras as propriedades dos componentes que selecionaste no momento
 
-There are other buttons and even another view, but these four sections are what you'll be using right now.
+Existem outros botões e até outra página, mas estas quatro secções são as que irás usar por agora.
 
