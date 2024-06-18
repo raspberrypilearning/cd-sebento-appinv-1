@@ -1,7 +1,7 @@
 ---
-title: Global food app
+title: Aplicação Global de Alimentos
 hero_image: images/banner.png
-description: Learn how to use App Inventor to make a quiz app
+description: Aprende como se usa o App Inventor para fazer uma aplicação de perguntas
 theme: green
 listed: true
 copyedit: true
@@ -12,23 +12,23 @@ site_areas: coderdojo, projects
 hardware: ''
 software: ''
 version: 3.0.0
-last_tested: '2018-04-30'
+last_tested: '30/04/2018'
 steps:
   - 
-    title: Introduction
+    title: Introdução
   - 
-    title: Getting set up
+    title: Preparação inicial
   - 
-    title: Creating a question
+    title: Criar uma pergunta
     completion:
       - engaged
   - 
-    title: Checking answers
+    title: Verificar respostas
   - 
-    title: Multiple questions
+    title: Várias perguntas
   - 
-    title: Wrapping up
+    title: Para finalizar
     completion:
       - internal
   - 
-    title: What next?
+    title: O que se segue?
