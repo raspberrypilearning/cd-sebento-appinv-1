@@ -6,7 +6,7 @@ As aplicações para Android são feitas de **Ecrãs**. Criaste a tua primeira p
 
 ![](images/tinydb.png)
 
-Está na altura de começar a montar o código que vai impulsionar o teu quiz!
+Está na altura de começar a montar o código que vai impulsionar o teu questionário!
 
 + Clica no botão **Blocos** para acederes à página de blocos, no canto superior direito do teu ecrã.
 
