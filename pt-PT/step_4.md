@@ -1,31 +1,31 @@
-## Checking answers
+## Verificar respostas
 
-Android apps are made of **Screens**. You've created your first question on one Screen, and you're going to want to add more. You'll put the questions on new screens, but you need a way of keeping score between those screens. On this card, you'll be adding a **TinyDB** database to keep the score in, and some code to mark the right answer!
+As aplicações para Android são feitas de **Ecrãs**. Criaste a tua primeira pergunta num ecrã, e vais querer adicionar mais. Irás pôr as próximas perguntas em novos ecrãs, mas vais precisar de uma maneira de manter a pontuação entre esses ecrãs. Neste cartão, vais adicionar uma base de dados **TinyDB** para armazenar a pontuação e algum código para marcar a resposta correta!
 
-+ First, in the Palette section under **Storage**, find the TinyDB component and drag it on to the Viewer. You won't see anything new there, but **TinyDB1** should appear in the Components section.
++ Primeiro, na secção da paleta debaixo do **Armazenamento**, encontra o componente tinyDB e arrasta-o para dentro do visualizador. Não vai aparecer nada de novo lá, mas a **TinyDB1** deve aparecer na secção multimédia.
 
 ![](images/tinydb.png)
 
-Now it's time to start putting together the code that will power your quiz!
+Está na altura de começar a montar o código que vai impulsionar o teu quiz!
 
-+ In the top right-hand corner of the screen, click on the **Blocks** button to access the Blocks view.
++ Clica no botão **Blocos** para acederes à página de blocos, no canto superior direito do teu ecrã.
 
 ![](images/blocks button.png)
 
-Just like the previous Designer screen, this Blocks screen has sections: **Blocks** — where you pick code blocks **Viewer** — where you drag your code blocks to assemble them
+Esta página de blocos, tal como a página anterior do editor de ecrãs, tem secções: **Blocos** — onde escolhes os blocos de código **Visualizador** — onde arrastas os teus blocos de código para os montar
 
-There are lots of kinds of code blocks — you're just going to need a few of them for now.
+Existem diversos tipos de blocos de código — por enquanto só vais precisar de alguns.
 
-+ In the Blocks section, click on whichever button matches the right answer to your question. For me, it was **Button4**. Grab the `When Button4.Click do` block and drag it onto the viewer.
++ Nesta secção de blocos, clica no botão que contém a resposta correta à tua pergunta. Para mim, é o **Botão4**. Agarra o bloco `quando Botão4.Clique fazer` e arrasta-o para o visualizador.
 
 ![](images/when click.png)
 
-+ Now click on TinyDB1 and choose the `call TinyDB1.StoreValue` block. Drag it into the last block and then go to the **Built-in** blocks and attach the pieces from **Math** and **Text** to make it look like this:
++ De seguida clica na tinyDB1 e escolhe o bloco `chamar TinyDB1.ArmazenarValor`. Arrasta-o para dentro do último bloco, escolhe a **Matemática** e o **Texto** dos blocos **Internos**, anexa-os para se parecer com isto:
 
 ![](images/store score.png)
 
-+ Finally, update the text value to `score` and the number to `1`, like this:
++ Por fim, altera o valor do texto para `pontuação` e o número para `1`, assim:
 
 ![](images/score vals.png)
 
-What you've done is to store the value `1` (as in one point for a right answer) under the label `score` in the TinyDB database. You can pull it back out and change it on later screens. This way, you can keep score throughout the app, no matter how many questions you add!
+O que acabaste de fazer foi armazenar o valor `1` (como um ponto para a resposta certa) sob a legenda `pontuação` na base de dados TinyDB. Vais poder retirá-lo e alterá-lo mais para a frente. Desta forma, podes acompanhar a pontuação no decorrer da aplicação, por mais perguntas que adiciones!
