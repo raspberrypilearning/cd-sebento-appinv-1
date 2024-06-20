@@ -40,7 +40,7 @@ Irás ver um ecrã como este, o que significa que estás pronto para programar!
 É possível ver que a página **Editor de Ecrãs** do App Inventor está dividida em quatro secções principais:
  + **Paleta**, onde podes escolher os componentes que vais usar para criar a tua aplicação
  + **Visualizador**, onde podes ver a aplicação que estás a trabalhar, alterá-la ou selecionar componentes
- + **Multimédia**, onde podes ver a lista dos componentes da tua aplicação e as relações entre eles
+ + **Componentes**, onde podes ver a lista dos componentes da tua aplicação e as relações entre eles
  + **Propriedades**, onde vês e alteras as propriedades dos componentes que selecionaste no momento
 
 Existem outros botões e até outra página, mas estas quatro secções são as que irás usar por agora.
