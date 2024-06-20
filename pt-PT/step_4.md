@@ -2,7 +2,7 @@
 
 As aplicações para Android são feitas de **Ecrãs**. Criaste a tua primeira pergunta num ecrã, e vais querer adicionar mais. Irás pôr as próximas perguntas em novos ecrãs, mas vais precisar de uma maneira de manter a pontuação entre esses ecrãs. Neste cartão, vais adicionar uma base de dados **TinyDB** para armazenar a pontuação e algum código para marcar a resposta correta!
 
-+ Primeiro, na secção da paleta debaixo do **Armazenamento**, encontra o componente tinyDB e arrasta-o para dentro do visualizador. Não vai aparecer nada de novo lá, mas a **TinyDB1** deve aparecer na secção multimédia.
++ Primeiro, na secção da paleta debaixo do **Armazenamento**, encontra o componente tinyDB e arrasta-o para dentro do visualizador. Não vai aparecer nada de novo lá, mas a **TinyDB1** deve aparecer na secção dos Componentes.
 
 ![](images/tinydb.png)
 
