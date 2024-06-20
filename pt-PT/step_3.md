@@ -5,7 +5,7 @@
 ![](images/Label.png)
 
 
-+ Para que a legenda contenha a tua pergunta, precisas primeiro selecioná-la com um clique, seja no visualizador, seja na secção de multimédia.
++ Para que a legenda contenha a tua pergunta, precisas primeiro selecioná-la com um clique, seja no visualizador, seja na secção de Componentes.
 
 + Agora, na secção das propriedades, procura por **Texto** (poderás ter de rolar para baixo).
 
